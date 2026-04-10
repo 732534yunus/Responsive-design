@@ -254,9 +254,11 @@ footer {
   content: "";
   display: block;
   width: 100%;
-  height: 30px;
+  height: 25px;
   background: #ffe600;
-  margin-top: -20px;
+  margin-top: -35px;
+  margin-left: 15px;
+}
 }
 .sub-title {
   grid-column: 2/-2;
